@@ -29,11 +29,11 @@
 
 | Dashboard | Create Invoice | Analytics |
 | :---: | :---: | :---: |
-| ![Dashboard](Screenshot/01_dashboard.jpg) | ![Create](Screenshot/02_create_invoice.jpg) | ![Analytics](Screenshot/03_analytics.jpg) |
+| ![Dashboard](Screenshot/01_dashboard.jpeg) | ![Create](Screenshot/02_create_invoice.jpeg) | ![Analytics](Screenshot/03_analytics.jpeg) |
 
 | Customers | PDF Result |
 | :---: | :---: |
-| ![Customers](Screenshot/04_customers.jpg) | ![PDF Result](Screenshot/05_pdf_result.jpg) |
+| ![Customers](Screenshot/04_customers.jpeg) | ![PDF Result](Screenshot/05_pdf_result.jpeg) |
 
 ## 🚀 Getting Started
 
