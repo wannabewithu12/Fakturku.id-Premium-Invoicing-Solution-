@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">Fakturku.id</string>
+
+    <string name="security_system_active">Security System Active</string>
+    <string name="system_secure">SYSTEM SECURE</string>
+    <string name="onboarding_permission_desc">Fakturku.id requires a one-time storage access permission to safely manage your database and XLS reports locally.</string>
+    <string name="allow_and_start">Allow &amp; Start</string>
+    <string name="default_company_name">(COMPANY NAME)</string>
+    <string name="start_now">Start Now!</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome_back">Welcome Back,</string>
+    <string name="daily_income">DAILY INCOME</string>
+    <string name="monthly_total">MONTHLY TOTAL</string>
+    <string name="status_paid">Paid</string>
+    <string name="status_unpaid">Unpaid</string>
+    <string name="status_overdue">Overdue</string>
+    <string name="performance_trend">PERFORMANCE TREND</string>
+    <string name="recent_activity">RECENT ACTIVITY</string>
+    <string name="see_all">See all</string>
+    <string name="no_activity_title">No activity yet.</string>
+    <string name="no_activity_subtitle">Start creating your first invoice!</string>
+    <string name="create_new_invoice_btn">CREATE NEW INVOICE</string>
+
+    <string name="new_invoice_title">NEW INVOICE</string>
+    <string name="customer_identity">CUSTOMER IDENTITY</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="invoice_number">Invoice Number</string>
+    <string name="invoice_deadline">Deadline (Optional)</string>
+    <string name="select_deadline">Select Date</string>
+    <string name="generating_invoice_number">Generating...</string>
+    <string name="transaction_items">TRANSACTION ITEMS</string>
+    <string name="add_item">ADD ITEM</string>
+    <string name="item_description_hint">Item/Service Description...</string>
+    <string name="quantity_short">Qty</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="save_to_list">Save to List</string>
+    <string name="summary_and_additional">SUMMARY &amp; ADDITIONAL</string>
+    <string name="discount">Discount</string>
+    <string name="tax_percentage">Tax (%)</string>
+    <string name="additional_notes_optional">Additional Notes (Optional)</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="discount_amount">Discount Amount</string>
+    <string name="tax_amount">Tax Amount</string>
+    <string name="grand_total">GRAND TOTAL</string>
+    <string name="publish_invoice_btn">PUBLISH INVOICE</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="company_identity">COMPANY IDENTITY</string>
+    <string name="business_identity_logo">Business Identity &amp; Logo</string>
+    <string name="data_management">DATA MANAGEMENT</string>
+
+    <string name="clear_cache">Clear Cache</string>
+    <string name="clear_cache_desc">Optimize storage space</string>
+
+    <string name="print_daily_detail">Print Daily Details</string>
+    <string name="print_daily_detail_desc">Complete daily transaction list</string>
+    <string name="print_monthly_summary">Print Monthly Summary</string>
+    <string name="print_monthly_summary_desc">This month\'s performance report</string>
+    <string name="system_and_personalization">SYSTEM &amp; PERSONALIZATION</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="app_lock">App Lock</string>
+    <string name="app_lock_desc">Use smartphone security</string>
+    <string name="language_selection">Language Selection</string>
+    <string name="currency_selection">Currency</string>
+    <string name="lang_id">Indo</string>
+    <string name="lang_en">Eng</string>
+    <string name="lang_ja">Jap</string>
+    <string name="lang_zh">Chi</string>
+
+
+    <string name="msg_optimize_success">✨ Storage optimized!</string>
+    <string name="msg_report_daily_success">✅ Daily report saved!</string>
+    <string name="msg_report_monthly_success">✅ Monthly summary saved!</string>
+    <string name="msg_report_pdf_success">✅ Report exported to PDF successfully!</string>
+    <string name="msg_report_pdf_failed">❌ Failed to export PDF report: %s</string>
+    <string name="delete_invoice_title">Delete Invoice</string>
+    <string name="delete_invoice_msg">Are you sure you want to delete invoice %s? This action cannot be undone.</string>
+    <string name="delete_confirm">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="financial_reports_pdf">FINANCIAL REPORTS (PDF)</string>
+
+    <!-- Widget -->
+    <string name="widget_title">FAKTURKU.ID</string>
+    <string name="widget_today_income">TODAY\'S REVENUE</string>
+    <string name="widget_paid">PAID</string>
+    <string name="widget_unpaid">UNPAID</string>
+    <string name="widget_faktur_count">%d Invoices</string>
+
+    <string name="recent_activity_title">RECENT ACTIVITY</string>
+    <string name="search_hint">Search invoice number or customer...</string>
+    <string name="search_not_found">No search results found</string>
+    <string name="filter_all">All</string>
+    <string name="badge_paid">Paid</string>
+    <string name="badge_unpaid">Unpaid</string>
+
+    <string name="invoice_detail_title">INVOICE DETAILS</string>
+    <string name="lunas_caps">PAID</string>
+    <string name="belum_lunas_caps">UNPAID</string>
+    <string name="total_bill">TOTAL BILL</string>
+    <string name="customer_caps">CUSTOMER</string>
+    <string name="date_caps">DATE</string>
+    <string name="transaction_details_caps">TRANSACTION DETAILS</string>
+    <string name="copy_blast_btn">COPY MESSAGE</string>
+    <string name="share_pdf_btn">SHARE PDF</string>
+    <string name="mark_as_paid_btn">MARK AS PAID</string>
+    <string name="duplicate_btn">DUPLICATE</string>
+    <string name="share_btn">SHARE</string>
+    <string name="msg_pdf_exported">✅ PDF Exported Successfully</string>
+    <string name="msg_message_copied">✅ Message copied to clipboard</string>
+    <string name="msg_failed">❌ Failed: %s</string>
+    <string name="msg_whatsapp_not_installed">WhatsApp is not installed</string>
+    <string name="msg_invoice_duplicated">✅ Invoice duplicated successfully!</string>
+    <string name="mark_as_paid_confirm_msg">This action will change the invoice status to PAID.</string>
+    
+    <!-- Analytics & Customers -->
+    <string name="analytics">Analytics</string>
+    <string name="analytics_desc">Trends &amp; Data</string>
+    <string name="customers">Customers</string>
+    <string name="customers_desc">Manage Clients</string>
+    <string name="monthly_summary">MONTHLY SUMMARY</string>
+    <string name="average_transaction">Average</string>
+    <string name="best_day">BEST DAY</string>
+    <string name="last_7_days_revenue">LAST 7 DAYS REVENUE</string>
+    <string name="invoice_status_distribution">INVOICE STATUS DISTRIBUTION</string>
+    <string name="total_invoice_caps">TOTAL INVOICES</string>
+    <string name="total_paid_caps">ALREADY PAID</string>
+    <string name="invoice_history">INVOICE HISTORY</string>
+    <string name="customer_detail_title">CUSTOMER DETAIL</string>
+    <string name="whatsapp_number">WhatsApp Number</string>
+    <string name="add_customer_btn">ADD CUSTOMER</string>
+    <string name="customers_title">MANAGE CUSTOMERS</string>
+    <string name="no_customer_found">No customers found</string>
+    <string name="select_customer_hint">Select Customer...</string>
+    <string name="search_customer_hint">Search name or member no...</string>
+    <string name="no_customer">No customers yet</string>
+    <string name="no_customer_desc">Create your first invoice to add a customer</string>
+    <string name="whatsapp_btn">WHATSAPP</string>
+    <string name="no_data">No data yet</string>
+    <string name="delete_customer_title">Delete Customer</string>
+    <string name="delete_customer_msg">Delete %s? Invoice history will not be deleted.</string>
+    <string name="delete">Delete</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="member_number">Member Number</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="no_invoice_customer">No invoices for this customer yet</string>
+    <string name="database_encryption">Database Encryption</string>
+    <string name="active_via_keystore">Active via Android Keystore</string>
+
+    <!-- WhatsApp Direct -->
+    <string name="whatsapp_direct_title">WhatsApp Direct</string>
+    <string name="whatsapp_direct_menu">WhatsApp Message</string>
+    <string name="whatsapp_direct_menu_desc">Set automatic blast messages for customers</string>
+    <string name="whatsapp_direct_desc">Custom message templates</string>
+    <string name="wa_template_paid">Paid Message</string>
+    <string name="wa_template_unpaid">Unpaid Message</string>
+    <string name="wa_template_overdue">Overdue Message</string>
+    <string name="wa_template_hint">Variables: {customer}, {invoice}, {amount}</string>
+    <string name="wa_template_save">Save Templates</string>
+    <string name="msg_wa_template_saved">✅ Templates saved successfully!</string>
+
+
+    <!-- Profile Screen -->
+    <string name="select_logo">SELECT LOGO</string>
+    <string name="add_logo">Add Logo</string>
+    <string name="business_profile">BUSINESS PROFILE</string>
+    <string name="business_name">Business Name</string>
+    <string name="email">Email</string>
+    <string name="invoice_footer">Invoice Footer (Notes)</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="business_name_hint">Business/Company Name</string>
+    <string name="full_address_hint">Full Address</string>
+    <string name="phone_whatsapp_hint">Phone / WhatsApp</string>
+    <string name="business_email_hint">Business Email</string>
+    <string name="invoice_footer_hint">Invoice Footer Notes</string>
+    <string name="invoice_footer_example">Example: Thank you for your business.</string>
+    <string name="save_changes_btn">SAVE CHANGES</string>
+    <string name="profile_info_desc">This information will automatically appear\non every invoice you issue.</string>
+
+    <string name="app_version_info">Fakturku.id Pro • v1.1.0</string>
+    <string name="whatsapp_share_message">Hello %1$s, here is your invoice: %2$s for %3$s.</string>
+    <string name="whatsapp_reminder_message">Hello %1$s,
+
+This is a friendly reminder for the following outstanding invoice:
+
+📄 Invoice No : %2$s
+💰 Amount    : %3$s
+
+Please arrange payment at your earliest convenience. Thank you for your trust.
+
+Best regards,
+%4$s</string>
+    <string name="send_reminder_btn">SEND WA REMINDER</string>
+    <string name="brand_logo_desc">Company Logo</string>
+    <string name="settings_desc">Settings</string>
+    <string name="new_invoice_desc">New Invoice</string>
+    <string name="back">Back</string>
+    <string name="date_format">MMMM dd, yyyy</string>
+    
+    <!-- PDF Invoice Labels -->
+    <string name="pdf_invoice_label">INVOICE</string>
+    <string name="pdf_number_label">Number:</string>
+    <string name="pdf_date_label">Date:</string>
+    <string name="pdf_due_date_label">Due Date:</string>
+    <string name="pdf_invoice_to_label">INVOICE TO:</string>
+    <string name="pdf_description_label">Description</string>
+    <string name="pdf_qty_label">Qty</string>
+    <string name="pdf_price_label">Price</string>
+    <string name="pdf_total_label">Total</string>
+    <string name="pdf_subtotal_label">Subtotal:</string>
+    <string name="pdf_discount_label">Discount:</string>
+    <string name="pdf_tax_label">Tax (%s%%):</string>
+    <string name="pdf_grand_total_label">GRAND TOTAL:</string>
+    <string name="pdf_notes_label">NOTES:</string>
+    <string name="report_daily_detail">DAILY TRANSACTION DETAILS</string>
+    <string name="report_monthly_summary">MONTHLY SUMMARY</string>
+    <string name="total_transactions">Total Transactions</string>
+
+    <!-- Cloud Backup -->
+    <string name="cloud_backup_title">Cloud Backup</string>
+    <string name="cloud_backup_desc">Backup &amp; restore data via Firebase</string>
+    <string name="secure_cloud_backup">Secure Cloud Backup</string>
+    <string name="backup_info_desc">Backup your invoices and business profile to the cloud safely.</string>
+    <string name="backup_now">Backup Now</string>
+    <string name="backup_history">Backup History</string>
+    <string name="no_backup_history">No backup history found</string>
+    <string name="msg_backup_success">✅ Data backed up successfully!</string>
+    <string name="msg_backup_failed">❌ Backup failed: %s</string>
+    <string name="msg_restore_success">✅ Data restored successfully! %d invoices loaded.</string>
+    <string name="msg_restore_failed">❌ Restore failed: %s</string>
+    <string name="delete_backup_title">Delete Backup?</string>
+    <string name="delete_backup_msg">Are you sure you want to permanently delete this backup from the cloud?</string>
+    <string name="restore_backup_title">Restore Backup?</string>
+    <string name="restore_backup_msg">This will replace your current local data with the data from this backup. This action cannot be undone.</string>
+    <string name="restore_confirm">Restore</string>
+    <string name="msg_auth_failed">❌ Auth Failed: %s</string>
+    <string name="msg_backup_too_large">❌ Backup too large (Logo too big). Use a smaller logo.</string>
+    <string name="msg_delete_backup_success">✅ Backup deleted successfully.</string>
+    <string name="msg_delete_backup_failed">❌ Failed to delete backup.</string>
+</resources>

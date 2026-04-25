@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">Fakturku.id</string>
+
+    <string name="security_system_active">セキュリティシステム有効</string>
+    <string name="system_secure">システム安全</string>
+    <string name="onboarding_permission_desc">Fakturku.idは、データベースとXLSレポートをローカルで安全に管理するために、1回限りのストレージへのアクセス権限を必要とします。</string>
+    <string name="allow_and_start">許可して開始</string>
+    <string name="default_company_name">(会社名)</string>
+    <string name="start_now">今すぐ開始！</string>
+    <string name="dashboard">ダッシュボード</string>
+    <string name="welcome_back">おかえりなさい、</string>
+    <string name="daily_income">日次収入</string>
+    <string name="monthly_total">月間合計</string>
+    <string name="status_paid">支払済</string>
+    <string name="status_unpaid">未払い</string>
+    <string name="status_overdue">期限切れ</string>
+    <string name="performance_trend">業績傾向</string>
+    <string name="recent_activity">最近の活動</string>
+    <string name="see_all">すべて見る</string>
+    <string name="no_activity_title">まだ活動がありません。</string>
+    <string name="no_activity_subtitle">最初の請求書を作成しましょう！</string>
+    <string name="create_new_invoice_btn">新しい請求書を作成</string>
+
+    <string name="new_invoice_title">新規請求書</string>
+    <string name="customer_identity">顧客情報</string>
+    <string name="customer_name">顧客名</string>
+    <string name="invoice_number">請求書番号</string>
+    <string name="invoice_deadline">期限（任意）</string>
+    <string name="select_deadline">日付を選択</string>
+    <string name="generating_invoice_number">生成中...</string>
+    <string name="transaction_items">取引項目</string>
+    <string name="add_item">項目を追加</string>
+    <string name="item_description_hint">商品/サービスの説明...</string>
+    <string name="financial_reports_pdf">財務レポート (PDF)</string>
+
+    <!-- Widget -->
+    <string name="widget_title">FAKTURKU.ID</string>
+    <string name="widget_today_income">今日の収益</string>
+    <string name="widget_paid">支払い済み</string>
+    <string name="widget_unpaid">未払い</string>
+    <string name="widget_faktur_count">%d 枚の請求書</string>
+    <string name="unit_price">単価</string>
+    <string name="save_to_list">リストに保存</string>
+    <string name="summary_and_additional">要約と追加情報</string>
+    <string name="discount">割引</string>
+    <string name="tax_percentage">税率 (%)</string>
+    <string name="additional_notes_optional">追加メモ (任意)</string>
+    <string name="subtotal">小計</string>
+    <string name="discount_amount">割引額</string>
+    <string name="tax_amount">税額</string>
+    <string name="grand_total">総合計</string>
+    <string name="publish_invoice_btn">請求書を発行</string>
+
+    <string name="settings_title">設定</string>
+    <string name="company_identity">会社情報</string>
+    <string name="business_identity_logo">会社情報とロゴ</string>
+    <string name="data_management">データ管理</string>
+    <string name="clear_cache">キャッシュをクリア</string>
+    <string name="clear_cache_desc">ストレージ容量を最適化</string>
+
+    <string name="print_daily_detail">日次詳細を印刷</string>
+    <string name="print_daily_detail_desc">完全な日次取引リスト</string>
+    <string name="print_monthly_summary">月間要約を印刷</string>
+    <string name="print_monthly_summary_desc">今月の業績レポート</string>
+    <string name="system_and_personalization">システムとカスタマイズ</string>
+    <string name="dark_mode">ダークモード</string>
+    <string name="active">有効</string>
+    <string name="inactive">無効</string>
+    <string name="app_lock">アプリロック</string>
+    <string name="app_lock_desc">スマートフォンのセキュリティを使用</string>
+    <string name="language_selection">言語選択</string>
+    <string name="currency_selection">通貨</string>
+    <string name="lang_id">Indo</string>
+    <string name="lang_en">Eng</string>
+    <string name="lang_ja">Jap</string>
+    <string name="lang_zh">Chi</string>
+
+
+    <string name="msg_optimize_success">✨ ストレージが最適化されました！</string>
+    <string name="msg_report_daily_success">✅ 日報が保存されました！</string>
+    <string name="msg_report_monthly_success">✅ 月次概要が保存されました！</string>
+    <string name="msg_report_pdf_success">✅ レポートがPDFにエクスポートされました！</string>
+    <string name="msg_report_pdf_failed">❌ PDFレポートのエクスポートに失敗しました: %s</string>
+    <string name="delete_invoice_title">請求書を削除</string>
+    <string name="delete_invoice_msg">請求書 %s を削除してもよろしいですか？この操作は取り消せません。</string>
+    <string name="delete_confirm">削除</string>
+    <string name="cancel">キャンセル</string>
+
+
+    <string name="recent_activity_title">最近の活動</string>
+    <string name="search_hint">請求書番号または顧客を検索...</string>
+    <string name="search_not_found">検索結果が見つかりません</string>
+    <string name="filter_all">すべて</string>
+    <string name="badge_paid">支払済</string>
+    <string name="badge_unpaid">未払い</string>
+
+    <string name="invoice_detail_title">請求書の詳細</string>
+    <string name="lunas_caps">支払済</string>
+    <string name="belum_lunas_caps">未払い</string>
+    <string name="total_bill">合計金額</string>
+    <string name="customer_caps">顧客</string>
+    <string name="date_caps">日付</string>
+    <string name="transaction_details_caps">取引の詳細</string>
+    <string name="copy_blast_btn">メッセージをコピー</string>
+    <string name="share_pdf_btn">PDFを共有</string>
+    <string name="mark_as_paid_btn">支払済としてマーク</string>
+    <string name="duplicate_btn">複製</string>
+    <string name="share_btn">共有</string>
+    <string name="msg_pdf_exported">✅ PDFのエクスポートに成功しました</string>
+    <string name="msg_message_copied">✅ メッセージをクリップボードにコピーしました</string>
+    <string name="msg_failed">❌ 失敗: %s</string>
+    <string name="msg_whatsapp_not_installed">WhatsAppがインストールされていません</string>
+    <string name="msg_invoice_duplicated">✅ 請求書が複製されました！</string>
+    <string name="mark_as_paid_confirm_msg">この操作により、請求書のステータスが「支払済」に変更されます。</string>
+    
+    <!-- Analytics & Customers -->
+    <string name="analytics">分析</string>
+    <string name="analytics_desc">トレンドとデータ</string>
+    <string name="customers">顧客</string>
+    <string name="customers_desc">クライアント管理</string>
+    <string name="monthly_summary">今月の概要</string>
+    <string name="average_transaction">平均</string>
+    <string name="best_day">ベストデイ</string>
+    <string name="last_7_days_revenue">過去7日間の収益</string>
+    <string name="invoice_status_distribution">請求書ステータスの分布</string>
+    <string name="total_invoice_caps">請求書の総数</string>
+    <string name="total_paid_caps">支払い済み</string>
+    <string name="invoice_history">請求履歴</string>
+    <string name="customer_detail_title">顧客の詳細</string>
+    <string name="whatsapp_number">WhatsApp番号</string>
+    <string name="add_customer_btn">顧客を追加</string>
+    <string name="customers_title">顧客管理</string>
+    <string name="no_customer_found">顧客が見つかりません</string>
+    <string name="select_customer_hint">顧客を選択...</string>
+    <string name="search_customer_hint">名前または電話番号で検索...</string>
+    <string name="no_customer">顧客はまだいません</string>
+    <string name="no_customer_desc">最初の請求書を作成して顧客を追加します</string>
+    <string name="whatsapp_btn">WHATSAPP</string>
+    <string name="no_data">データはまだありません</string>
+    <string name="delete_customer_title">顧客を削除</string>
+    <string name="delete_customer_msg">%sを削除しますか？請求履歴は削除されません。</string>
+    <string name="delete">削除</string>
+    <string name="phone_number">電話番号</string>
+    <string name="address">住所</string>
+    <string name="save">保存</string>
+    <string name="no_invoice_customer">この顧客の請求書はまだありません</string>
+    <string name="database_encryption">データベースの暗号化</string>
+    <string name="active_via_keystore">Android Keystore経由でアクティブ</string>
+
+
+    <!-- Profile Screen -->
+    <string name="select_logo">ロゴを選択</string>
+    <string name="add_logo">ロゴを追加</string>
+    <string name="business_profile">ビジネスプロフィール</string>
+    <string name="business_name">事業名</string>
+    <string name="email">メール</string>
+    <string name="invoice_footer">請求書フッター</string>
+    <string name="save_profile">プロフィールの保存</string>
+    <string name="business_name_hint">会社/事業名</string>
+    <string name="full_address_hint">完全な住所</string>
+    <string name="phone_whatsapp_hint">電話 / WhatsApp</string>
+    <string name="business_email_hint">ビジネスメール</string>
+    <string name="invoice_footer_hint">請求書のフッターメモ</string>
+    <string name="invoice_footer_example">例：ご利用ありがとうございます。</string>
+    <string name="save_changes_btn">変更を保存</string>
+    <string name="profile_info_desc">この情報は、発行するすべての請求書に\n自動的に表示されます。</string>
+
+    <string name="app_version_info">Fakturku.id Pro • v1.1.0</string>
+    <string name="whatsapp_share_message">こんにちは %1$s 様、こちらの請求書をご確認ください： %2$s 金額 %3$s。</string>
+    <string name="whatsapp_reminder_message">こんにちは %1$s 様。
+
+以下の未払い請求書につきましてお知らせいたします：
+
+📄 請求書番号: %2$s
+💰 金額: %3$s
+
+お支払いのお手続きをお願いいたします。ご利用ありがとうございます。
+
+敬具
+%4$s</string>
+    <string name="send_reminder_btn">WAリマインダー送信</string>
+    <string name="brand_logo_desc">会社ロゴ</string>
+    <string name="settings_desc">設定</string>
+    <string name="new_invoice_desc">新規請求書</string>
+    <string name="back">戻る</string>
+    <string name="date_format">yyyy年MM月dd日</string>
+    
+    <!-- PDF Invoice Labels -->
+    <string name="pdf_invoice_label">請求書</string>
+    <string name="pdf_number_label">番号:</string>
+    <string name="pdf_date_label">日付:</string>
+    <string name="pdf_due_date_label">支払期限:</string>
+    <string name="pdf_invoice_to_label">請求先:</string>
+    <string name="pdf_description_label">説明</string>
+    <string name="pdf_qty_label">数量</string>
+    <string name="pdf_price_label">価格</string>
+    <string name="pdf_total_label">合計</string>
+    <string name="pdf_subtotal_label">小計:</string>
+    <string name="pdf_discount_label">割引:</string>
+    <string name="pdf_tax_label">税金 (%s%%):</string>
+    <string name="pdf_grand_total_label">総合計:</string>
+    <string name="pdf_notes_label">備考:</string>
+    <string name="report_daily_detail">取引明細レポート</string>
+    <string name="report_monthly_summary">月次概要レポート</string>
+    <string name="total_transactions">総取引数</string>
+
+    <!-- Cloud Backup -->
+    <string name="cloud_backup_title">クラウドバックアップ</string>
+    <string name="cloud_backup_desc">Firebase経由でデータをバックアップと復元</string>
+    <string name="secure_cloud_backup">安全なクラウドバックアップ</string>
+    <string name="backup_info_desc">請求書とビジネスプロファイルをクラウドに安全にバックアップします。</string>
+    <string name="backup_now">今すぐバックアップ</string>
+    <string name="backup_history">バックアップ履歴</string>
+    <string name="no_backup_history">バックアップ履歴が見つかりません</string>
+    <string name="msg_backup_success">✅ データのバックアップが完了しました！</string>
+    <string name="msg_backup_failed">❌ バックアップに失敗しました: %s</string>
+    <string name="msg_restore_success">✅ データの復元が完了しました！ %d 件の請求書が読み込まれました。</string>
+    <string name="msg_restore_failed">❌ 復元に失敗しました: %s</string>
+    <string name="delete_backup_title">バックアップを削除しますか？</string>
+    <string name="delete_backup_msg">このバックアップをクラウドから永久に削除してもよろしいですか？</string>
+    <string name="restore_backup_title">バックアップを復元しますか？</string>
+    <string name="restore_backup_msg">これにより、現在のローカルデータがこのバックアップのデータに置き換えられます。この操作は取り消せません。</string>
+    <string name="restore_confirm">復元</string>
+    <string name="msg_auth_failed">❌ 認証に失敗しました: %s</string>
+    <string name="msg_backup_too_large">❌ バックアップが大きすぎます（ロゴが大きすぎます）。小さいロゴを使用してください。</string>
+    <string name="msg_delete_backup_success">✅ バックアップが正常に削除されました。</string>
+    <string name="msg_delete_backup_failed">❌ バックアップの削除に失敗しました。</string>
+
+    <!-- WhatsApp Direct -->
+    <string name="whatsapp_direct_title">WhatsApp Direct</string>
+    <string name="whatsapp_direct_menu">WhatsApp メッセージ</string>
+    <string name="whatsapp_direct_menu_desc">顧客向けの自動一斉送信メッセージを設定</string>
+    <string name="wa_template_paid">支払い済みメッセージ</string>
+    <string name="wa_template_unpaid">未払いメッセージ</string>
+    <string name="wa_template_overdue">期限切れメッセージ</string>
+    <string name="wa_template_hint">変数: {customer}, {invoice}, {amount}</string>
+    <string name="wa_template_save">テンプレートを保存</string>
+    <string name="msg_wa_template_saved">✅ テンプレートが正常に保存されました！</string>
+    <string name="member_discount_msg">メンバーのお客様は自動的に5％割引になります！</string>
+    <string name="status_active">有効</string>
+    <string name="status_inactive">無効</string>
+    <string name="customer_type">顧客タイプ</string>
+    <string name="type_member">メンバー</string>
+    <string name="type_non_member">非メンバー</string>
+    <string name="edit_customer">顧客を編集</string>
+    <string name="email_label">メール</string>
+    <string name="member_number">会員番号</string>
+    <string name="member_number_label">会員番号</string>
+</resources>

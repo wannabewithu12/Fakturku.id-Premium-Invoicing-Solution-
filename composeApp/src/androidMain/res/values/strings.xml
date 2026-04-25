@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">Fakturku.id</string>
+
+    <!-- Home Screen -->
+    <string name="security_system_active">Sistem Keamanan Aktif</string>
+    <string name="system_secure">SYSTEM SECURE</string>
+    <string name="onboarding_permission_desc">Fakturku.id membutuhkan satu kali izin akses penyimpanan untuk mengelola database dan laporan XLS Anda secara lokal dan aman.</string>
+    <string name="allow_and_start">Izinkan &amp; Mulai</string>
+    <string name="default_company_name">(COMPANY NAME)</string>
+    <string name="start_now">Mulai Sekarang!</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome_back">Selamat Datang Kembali,</string>
+    <string name="daily_income">PENDAPATAN HARIAN</string>
+    <string name="monthly_total">TOTAL BULANAN</string>
+    <string name="status_paid">Lunas</string>
+    <string name="status_unpaid">Belum Lunas</string>
+    <string name="status_overdue">Jatuh Tempo</string>
+    <string name="performance_trend">TREN PENJUALAN (7 HARI)</string>
+    <string name="recent_activity">AKTIVITAS TERBARU</string>
+    <string name="see_all">Lihat semua</string>
+    <string name="no_activity_title">Belum ada aktivitas.</string>
+    <string name="no_activity_subtitle">Mulai buat faktur pertama Anda!</string>
+    <string name="create_new_invoice_btn">BUAT FAKTUR BARU</string>
+
+    <!-- Create Invoice Screen -->
+    <string name="new_invoice_title">FAKTUR BARU</string>
+    <string name="customer_identity">IDENTITAS PELANGGAN</string>
+    <string name="customer_name">Nama Pelanggan</string>
+    <string name="invoice_number">Nomor Faktur</string>
+    <string name="invoice_deadline">Tenggat Waktu (Opsional)</string>
+    <string name="select_deadline">Pilih Tanggal</string>
+    <string name="generating_invoice_number">Generating...</string>
+    <string name="transaction_items">ITEM TRANSAKSI</string>
+    <string name="add_item">TAMBAH ITEM</string>
+    <string name="item_description_hint">Deskripsi Barang/Jasa...</string>
+    <string name="quantity_short">Qty</string>
+    <string name="unit_price">Harga Satuan</string>
+    <string name="save_to_list">Simpan ke Daftar</string>
+    <string name="summary_and_additional">RINGKASAN &amp; TAMBAHAN</string>
+    <string name="discount">Diskon</string>
+    <string name="tax_percentage">Pajak (%)</string>
+    <string name="additional_notes_optional">Catatan Tambahan (Opsional)</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="discount_amount">Potongan Harga</string>
+    <string name="tax_amount">Pajak Sertaan</string>
+    <string name="grand_total">TOTAL AKHIR</string>
+    <string name="publish_invoice_btn">TERBITKAN FAKTUR</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">PENGATURAN</string>
+    <string name="company_identity">IDENTITAS INSTANSI</string>
+    <string name="business_identity_logo">Identitas Bisnis &amp; Logo</string>
+    <string name="data_management">MANAJEMEN DATA</string>
+
+    <string name="clear_cache">Bersihkan Cache</string>
+    <string name="clear_cache_desc">Optimalkan ruang penyimpanan</string>
+
+    <string name="print_daily_detail">Cetak Detail Harian</string>
+    <string name="print_daily_detail_desc">Daftar transaksi harian lengkap</string>
+    <string name="print_monthly_summary">Cetak Ringkasan Bulanan</string>
+    <string name="print_monthly_summary_desc">Laporan performa bulan ini</string>
+    <string name="system_and_personalization">SISTEM &amp; PERSONALISASI</string>
+    <string name="dark_mode">Tema Gelap</string>
+    <string name="active">Aktif</string>
+    <string name="inactive">Nonaktif</string>
+    <string name="app_lock">Kunci Aplikasi</string>
+    <string name="app_lock_desc">Menggunakan keamanan smartphone</string>
+    <string name="language_selection">Pilihan Bahasa</string>
+    <string name="currency_selection">Mata Uang</string>
+    <string name="lang_id">Indo</string>
+    <string name="lang_en">Eng</string>
+    <string name="lang_ja">Jap</string>
+    <string name="lang_zh">Chi</string>
+    
+
+    <string name="msg_optimize_success">✨ Ruang berhasil dioptimalkan!</string>
+    <string name="msg_report_daily_success">✅ Laporan harian berhasil disimpan!</string>
+    <string name="msg_report_monthly_success">✅ Ringkasan bulanan berhasil disimpan!</string>
+    <string name="msg_report_pdf_success">✅ Laporan berhasil diekspor ke PDF!</string>
+    <string name="msg_report_pdf_failed">❌ Gagal mengekspor laporan PDF: %s</string>
+    <string name="delete_invoice_title">Hapus Faktur</string>
+    <string name="delete_invoice_msg">Apakah Anda yakin ingin menghapus faktur %s? Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="delete_confirm">Hapus</string>
+    <string name="cancel">Batal</string>
+
+
+    <string name="financial_reports_pdf">LAPORAN KEUANGAN (PDF)</string>
+
+    <!-- Activity List Screen -->
+    <string name="recent_activity_title">AKTIVITAS TERBARU</string>
+    <string name="search_hint">Cari nomor faktur atau pelanggan...</string>
+    <string name="search_not_found">Pencarian tidak ditemukan</string>
+    <string name="filter_all">Semua</string>
+    <string name="badge_paid">Lunas</string>
+    <string name="badge_unpaid">Belum Lunas</string>
+
+    <!-- Invoice Detail Screen -->
+    <string name="invoice_detail_title">DETAIL FAKTUR</string>
+    <string name="lunas_caps">LUNAS</string>
+    <string name="belum_lunas_caps">BELUM LUNAS</string>
+    <string name="total_bill">TOTAL TAGIHAN</string>
+    <string name="customer_caps">PELANGGAN</string>
+    <string name="date_caps">TANGGAL</string>
+    <string name="transaction_details_caps">RINCIAN TRANSAKSI</string>
+    <string name="copy_blast_btn">SALIN PESAN</string>
+    <string name="share_pdf_btn">BAGIKAN PDF</string>
+    <string name="mark_as_paid_btn">TANDAI LUNAS</string>
+    <string name="duplicate_btn">DUPLIKAT</string>
+    <string name="share_btn">BAGIKAN</string>
+    <string name="msg_pdf_exported">✅ Berhasil Mengekspor PDF</string>
+    <string name="msg_message_copied">✅ Pesan disalin ke clipboard</string>
+    <string name="msg_failed">❌ Gagal: %s</string>
+    <string name="msg_whatsapp_not_installed">WhatsApp tidak terpasang</string>
+    <string name="msg_invoice_duplicated">✅ Faktur berhasil diduplikat!</string>
+    <string name="mark_as_paid_confirm_msg">Tindakan ini akan mengubah status faktur menjadi LUNAS.</string>
+    
+    <!-- Analytics & Customers -->
+    <string name="analytics">Analitik</string>
+    <string name="analytics_desc">Tren &amp; Data</string>
+    <string name="customers">Pelanggan</string>
+    <string name="customers_desc">Kelola Klien</string>
+    <string name="monthly_summary">RINGKASAN BULAN INI</string>
+    <string name="average_transaction">Rata-rata</string>
+    <string name="best_day">HARI TERBAIK</string>
+    <string name="last_7_days_revenue">PENDAPATAN 7 HARI TERAKHIR</string>
+    <string name="invoice_status_distribution">DISTRIBUSI STATUS FAKTUR</string>
+    <string name="total_invoice_caps">TOTAL FAKTUR</string>
+    <string name="total_paid_caps">SUDAH DIBAYAR</string>
+    <string name="invoice_history">RIWAYAT FAKTUR</string>
+    <string name="customer_detail_title">DETAIL PELANGGAN</string>
+    <string name="whatsapp_number">Nomor WhatsApp</string>
+    <string name="add_customer_btn">TAMBAH PELANGGAN</string>
+    <string name="customers_title">KELOLA PELANGGAN</string>
+    <string name="no_customer_found">Pelanggan tidak ditemukan</string>
+    <string name="select_customer_hint">Pilih Pelanggan...</string>
+    <string name="search_customer_hint">Cari nama atau no member...</string>
+    <string name="no_customer">Belum ada pelanggan</string>
+    <string name="no_customer_desc">Buat faktur pertama untuk menambah pelanggan</string>
+    <string name="whatsapp_btn">WHATSAPP</string>
+    <string name="customer_status">Status</string>
+    <string name="status_active">Aktif</string>
+    <string name="status_inactive">Nonaktif</string>
+    <string name="customer_type">Tipe Pelanggan</string>
+    <string name="type_member">Member</string>
+    <string name="type_non_member">Non-Member</string>
+    <string name="edit_customer">Edit Pelanggan</string>
+    <string name="email_label">Email</string>
+    <string name="member_discount_msg">Pelanggan Member mendapatkan diskon otomatis 5%!</string>
+    <string name="no_data">Belum ada data</string>
+    <string name="delete_customer_title">Hapus Pelanggan</string>
+    <string name="delete_customer_msg">Hapus %s? Riwayat faktur tidak akan terhapus.</string>
+    <string name="delete">Hapus</string>
+    <string name="phone_number">Nomor Telepon</string>
+    <string name="member_number">Nomor Member</string>
+    <string name="address">Alamat</string>
+    <string name="save">Simpan</string>
+    <string name="no_invoice_customer">Belum ada faktur untuk pelanggan ini</string>
+    <string name="database_encryption">Enkripsi Database</string>
+    <string name="active_via_keystore">Aktif via Android Keystore</string>
+
+    <!-- Widget -->
+    <string name="widget_title">FAKTURKU.ID</string>
+    <string name="widget_today_income">PENDAPATAN HARI INI</string>
+    <string name="widget_paid">LUNAS</string>
+    <string name="widget_unpaid">BELUM LUNAS</string>
+    <string name="widget_faktur_count">%d Faktur</string>
+
+    <!-- WhatsApp Direct -->
+    <string name="whatsapp_direct_title">WhatsApp Direct</string>
+    <string name="whatsapp_direct_menu">Pesan WhatsApp</string>
+    <string name="whatsapp_direct_menu_desc">Atur pesan blast otomatis untuk pelanggan</string>
+    <string name="wa_template_paid">Pesan Lunas</string>
+    <string name="wa_template_unpaid">Pesan Belum Lunas</string>
+    <string name="wa_template_overdue">Pesan Jatuh Tempo</string>
+    <string name="wa_template_hint">Gunakan variabel: {customer}, {invoice}, {amount}</string>
+    <string name="wa_template_save">Simpan Template</string>
+    <string name="msg_wa_template_saved">✅ Template berhasil disimpan!</string>
+
+    <!-- Profile Screen -->
+    <string name="select_logo">PILIH LOGO</string>
+    <string name="add_logo">Tambah Logo</string>
+    <string name="business_profile">PROFIL BISNIS</string>
+    <string name="business_name">Nama Bisnis</string>
+    <string name="email">Email</string>
+    <string name="invoice_footer">Catatan Kaki (Footer)</string>
+    <string name="save_profile">Simpan Profil</string>
+    <string name="business_name_hint">Contoh: Toko Maju Jaya / PT. Sukses</string>
+    <string name="full_address_hint">Contoh: Jl. Merdeka No. 123, Jakarta Raya</string>
+    <string name="phone_whatsapp_hint">Contoh: 081234567890</string>
+    <string name="business_email_hint">Contoh: admin@bisnis.com</string>
+    <string name="invoice_footer_hint">Contoh: Terima kasih atas kepercayaan Anda.</string>
+    <string name="save_changes_btn">SIMPAN PERUBAHAN</string>
+    <string name="profile_info_desc">Informasi ini akan muncul secara otomatis\npada setiap faktur yang Anda terbitkan.</string>
+    
+    <string name="app_version_info">Fakturku.id Pro • v1.1.0</string>
+    <string name="whatsapp_share_message">Halo %1$s, berikut adalah tagihan Anda: %2$s sebesar %3$s.</string>
+    <string name="whatsapp_reminder_message">Halo %1$s,
+
+Kami ingin mengingatkan tagihan berikut yang belum lunas:
+
+📄 Faktur     : %2$s
+💰 Jumlah     : %3$s
+
+Mohon segera lakukan pembayaran. Terima kasih atas kepercayaan Anda.
+
+Salam,
+%4$s</string>
+    <string name="send_reminder_btn">KIRIM REMINDER WA</string>
+    <string name="brand_logo_desc">Logo Perusahaan</string>
+    <string name="settings_desc">Pengaturan</string>
+    <string name="new_invoice_desc">Buat Faktur Baru</string>
+    <string name="back">Kembali</string>
+    <string name="date_format">dd MMMM yyyy</string>
+    
+    <!-- PDF Invoice Labels -->
+    <string name="pdf_invoice_label">FAKTUR</string>
+    <string name="pdf_number_label">Nomor:</string>
+    <string name="pdf_date_label">Tanggal:</string>
+    <string name="pdf_due_date_label">Jatuh Tempo:</string>
+    <string name="pdf_invoice_to_label">DITAGIHKAN KEPADA:</string>
+    <string name="pdf_description_label">Deskripsi</string>
+    <string name="pdf_qty_label">Qty</string>
+    <string name="pdf_price_label">Harga</string>
+    <string name="pdf_total_label">Total</string>
+    <string name="pdf_subtotal_label">Subtotal:</string>
+    <string name="pdf_discount_label">Diskon:</string>
+    <string name="pdf_tax_label">Pajak (%s%%):</string>
+    <string name="pdf_grand_total_label">TOTAL AKHIR:</string>
+    <string name="pdf_notes_label">CATATAN:</string>
+    <string name="report_daily_detail">LAPORAN DETAIL TRANSAKSI</string>
+    <string name="report_monthly_summary">RINGKASAN BULANAN</string>
+    <string name="total_transactions">Total Transaksi</string>
+
+    <!-- Cloud Backup -->
+    <string name="cloud_backup_title">Cloud Backup</string>
+    <string name="cloud_backup_desc">Backup &amp; restore data via Firebase</string>
+    <string name="secure_cloud_backup">Cadangan Awan Aman</string>
+    <string name="backup_info_desc">Cadangkan faktur dan profil bisnis Anda ke awan dengan aman.</string>
+    <string name="backup_now">Cadangkan Sekarang</string>
+    <string name="backup_history">Riwayat Cadangan</string>
+    <string name="no_backup_history">Belum ada riwayat cadangan</string>
+    <string name="msg_backup_success">✅ Data berhasil dicadangkan!</string>
+    <string name="msg_backup_failed">❌ Gagal mencadangkan: %s</string>
+    <string name="msg_restore_success">✅ Data berhasil dipulihkan! %d faktur dimuat.</string>
+    <string name="msg_restore_failed">❌ Gagal memulihkan: %s</string>
+    <string name="delete_backup_title">Hapus Cadangan?</string>
+    <string name="delete_backup_msg">Apakah Anda yakin ingin menghapus cadangan ini secara permanen dari awan?</string>
+    <string name="restore_backup_title">Pulihkan Cadangan?</string>
+    <string name="restore_backup_msg">Ini akan menggantikan data lokal Anda saat ini dengan data dari cadangan ini. Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="restore_confirm">Pulihkan</string>
+    <string name="msg_auth_failed">❌ Gagal Otentikasi: %s</string>
+    <string name="msg_backup_too_large">❌ Cadangan terlalu besar (Logo terlalu besar). Gunakan logo yang lebih kecil.</string>
+    <string name="msg_delete_backup_success">✅ Cadangan berhasil dihapus.</string>
+    <string name="msg_delete_backup_failed">❌ Gagal menghapus cadangan.</string>
+</resources>

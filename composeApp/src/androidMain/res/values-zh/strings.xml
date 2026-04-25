@@ -1,0 +1,252 @@
+<resources>
+    <string name="app_name">Fakturku.id</string>
+
+    <string name="security_system_active">安全系统已启用</string>
+    <string name="system_secure">系统安全</string>
+    <string name="onboarding_permission_desc">Fakturku.id 需要一次性的存储访问权限，以便在本地安全地管理您的数据库和 XLS 报表。</string>
+    <string name="allow_and_start">允许并开始</string>
+    <string name="default_company_name">(公司名称)</string>
+    <string name="start_now">立即开始！</string>
+    <string name="dashboard">仪表板</string>
+    <string name="welcome_back">欢迎回来，</string>
+    <string name="daily_income">当日收入</string>
+    <string name="monthly_total">本月总计</string>
+    <string name="status_paid">已支付</string>
+    <string name="status_unpaid">未支付</string>
+    <string name="status_overdue">已逾期</string>
+    <string name="performance_trend">业绩趋势</string>
+    <string name="recent_activity">近期活动</string>
+    <string name="see_all">查看全部</string>
+    <string name="no_activity_title">暂无活动。</string>
+    <string name="no_activity_subtitle">开始创建您的第一张发票吧！</string>
+    <string name="create_new_invoice_btn">创建新发票</string>
+
+    <string name="new_invoice_title">新发票</string>
+    <string name="customer_identity">客户身份</string>
+    <string name="customer_name">客户姓名</string>
+    <string name="invoice_number">发票号码</string>
+    <string name="generating_invoice_number">正在生成...</string>
+    <string name="transaction_items">交易项目</string>
+    <string name="add_item">添加项目</string>
+    <string name="item_description_hint">项目/服务描述...</string>
+    <string name="quantity_short">数量</string>
+    <string name="unit_price">单价</string>
+    <string name="save_to_list">保存到列表</string>
+    <string name="summary_and_additional">摘要和补充信息</string>
+    <string name="discount">折扣</string>
+    <string name="tax_percentage">税率 (%)</string>
+    <string name="additional_notes_optional">备注 (选填)</string>
+    <string name="subtotal">小计</string>
+    <string name="discount_amount">折扣金额</string>
+    <string name="tax_amount">税额</string>
+    <string name="grand_total">总计</string>
+    <string name="publish_invoice_btn">开具发票</string>
+
+    <string name="settings_title">设置</string>
+    <string name="company_identity">公司身份</string>
+    <string name="business_identity_logo">公司信息和 Logo</string>
+    <string name="data_management">数据管理</string>
+    <string name="clear_cache">清理缓存</string>
+    <string name="clear_cache_desc">优化存储空间</string>
+
+    <string name="print_daily_detail">打印当日明细</string>
+    <string name="print_daily_detail_desc">完整的每日交易列表</string>
+    <string name="print_monthly_summary">打印本月摘要</string>
+    <string name="print_monthly_summary_desc">本月业绩报告</string>
+    <string name="system_and_personalization">系统和个性化</string>
+    <string name="dark_mode">深色模式</string>
+    <string name="active">启用</string>
+    <string name="inactive">未启用</string>
+    <string name="app_lock">应用锁</string>
+    <string name="app_lock_desc">使用智能手机安全功能</string>
+    <string name="language_selection">语言选择</string>
+    <string name="currency_selection">货币</string>
+    <string name="lang_id">印尼语</string>
+    <string name="lang_en">英语</string>
+    <string name="lang_ja">日语</string>
+    <string name="lang_zh">中文</string>
+
+
+    <string name="msg_optimize_success">✨ 存储优化成功！</string>
+    <string name="msg_report_daily_success">✅ 日报已保存！</string>
+    <string name="msg_report_monthly_success">✅ 月报表已保存！</string>
+    <string name="msg_report_pdf_success">✅ 报表已成功导出为 PDF！</string>
+    <string name="msg_report_pdf_failed">❌ 导出 PDF 报表失败: %s</string>
+    <string name="delete_invoice_title">删除发票</string>
+    <string name="delete_invoice_msg">您确定要删除发票 %s 吗？此操作无法撤销。</string>
+    <string name="delete_confirm">删除</string>
+    <string name="cancel">取消</string>
+
+    <!-- Import Confirmation Dialog -->
+    <string name="import_confirm_title">⚠️ 确认导入</string>
+    <string name="import_confirm_msg">导入将用备份文件中的数据替换当前所有数据。此操作无法撤销。\n\n是否继续？</string>
+    <string name="import_confirm_btn">是的，立即导入</string>
+    <string name="financial_reports_pdf">财务报表 (PDF)</string>
+
+    <!-- Widget -->
+    <string name="widget_title">FAKTURKU.ID</string>
+    <string name="widget_today_income">今日收入</string>
+    <string name="widget_paid">已付</string>
+    <string name="widget_unpaid">未付</string>
+    <string name="widget_faktur_count">%d 张发票</string>
+
+    <string name="recent_activity_title">近期活动</string>
+    <string name="search_hint">搜索发票号码或客户...</string>
+    <string name="search_not_found">未找到搜索结果</string>
+    <string name="filter_all">全部</string>
+    <string name="badge_paid">已支付</string>
+    <string name="badge_unpaid">未支付</string>
+
+    <string name="invoice_detail_title">发票详情</string>
+    <string name="lunas_caps">已支付</string>
+    <string name="belum_lunas_caps">未支付</string>
+    <string name="total_bill">总账单</string>
+    <string name="customer_caps">客户</string>
+    <string name="date_caps">日期</string>
+    <string name="transaction_details_caps">交易详情</string>
+    <string name="copy_blast_btn">复制消息</string>
+    <string name="share_pdf_btn">分享 PDF</string>
+    <string name="mark_as_paid_btn">标为已支付</string>
+    <string name="duplicate_btn">复制</string>
+    <string name="share_btn">分享</string>
+    <string name="msg_pdf_exported">✅ PDF 已成功导出</string>
+    <string name="msg_message_copied">✅ 消息已复制到剪贴板</string>
+    <string name="msg_failed">❌ 失败: %s</string>
+    <string name="msg_whatsapp_not_installed">未安装 WhatsApp</string>
+    <string name="msg_invoice_duplicated">✅ 发票已成功复制！</string>
+    <string name="mark_as_paid_confirm_msg">此操作将发票状态更改为“已支付”。</string>
+    
+    <!-- Analytics & Customers -->
+    <string name="analytics">分析</string>
+    <string name="analytics_desc">趋势与数据</string>
+    <string name="customers">客户</string>
+    <string name="customers_desc">管理客户</string>
+    <string name="monthly_summary">本月概览</string>
+    <string name="average_transaction">平均</string>
+    <string name="best_day">最佳日期</string>
+    <string name="last_7_days_revenue">最近7天的收入</string>
+    <string name="invoice_status_distribution">发票状态分布</string>
+    <string name="total_invoice_caps">总发票数</string>
+    <string name="total_paid_caps">已支付</string>
+    <string name="invoice_history">发票历史</string>
+    <string name="customer_detail_title">客户详情</string>
+    <string name="whatsapp_number">WhatsApp 号码</string>
+    <string name="add_customer_btn">添加客户</string>
+    <string name="customers_title">管理客户</string>
+    <string name="no_customer_found">未找到客户</string>
+    <string name="select_customer_hint">选择客户...</string>
+    <string name="search_customer_hint">搜索姓名或电话...</string>
+    <string name="no_customer">暂无客户</string>
+    <string name="no_customer_desc">创建您的第一张发票以添加客户</string>
+    <string name="whatsapp_btn">WHATSAPP</string>
+    <string name="no_data">暂无数据</string>
+    <string name="delete_customer_title">删除客户</string>
+    <string name="delete_customer_msg">删除 %s? 发票历史记录将不会被删除。</string>
+    <string name="delete">删除</string>
+    <string name="phone_number">电话号码</string>
+    <string name="address">地址</string>
+    <string name="save">保存</string>
+    <string name="no_invoice_customer">该客户暂无发票</string>
+    <string name="database_encryption">数据库加密</string>
+    <string name="active_via_keystore">通过 Android Keystore 激活</string>
+
+
+    <!-- Profile Screen -->
+    <string name="select_logo">选择 Logo</string>
+    <string name="add_logo">添加 Logo</string>
+    <string name="business_profile">业务概况</string>
+    <string name="business_name">业务名称</string>
+    <string name="email">电子邮件</string>
+    <string name="invoice_footer">发票页脚</string>
+    <string name="save_profile">保存资料</string>
+    <string name="business_name_hint">公司/企业名称</string>
+    <string name="full_address_hint">完整地址</string>
+    <string name="phone_whatsapp_hint">电话 / WhatsApp</string>
+    <string name="business_email_hint">公司邮箱</string>
+    <string name="invoice_footer_hint">发票页脚备注</string>
+    <string name="invoice_footer_example">示例：感谢您的惠顾。</string>
+    <string name="save_changes_btn">保存更改</string>
+    <string name="profile_info_desc">这些信息将自动出现\n在您开具的每张发票上。</string>
+
+    <string name="app_version_info">Fakturku.id Pro • v1.1.0</string>
+    <string name="whatsapp_share_message">您好 %1$s，这是您的发票：%2$s 金额为 %3$s。</string>
+    <string name="whatsapp_reminder_message">您好 %1$s，
+
+在此提醒您以下未付款发票：
+
+📄 发票号：%2$s
+💰 金额：%3$s
+
+请尽快安排付款。感谢您的信任与支持。
+
+此致
+%4$s</string>
+    <string name="send_reminder_btn">发送WA提醒</string>
+    <string name="brand_logo_desc">公司徽标</string>
+    <string name="settings_desc">设置</string>
+    <string name="new_invoice_desc">新发票</string>
+    <string name="back">返回</string>
+    <string name="date_format">yyyy年MM月dd日</string>
+    
+    <!-- PDF Invoice Labels -->
+    <string name="pdf_invoice_label">发票</string>
+    <string name="pdf_number_label">号码:</string>
+    <string name="pdf_date_label">日期:</string>
+    <string name="pdf_due_date_label">截止日期:</string>
+    <string name="pdf_invoice_to_label">账单寄至:</string>
+    <string name="pdf_description_label">描述</string>
+    <string name="pdf_qty_label">数量</string>
+    <string name="pdf_price_label">价格</string>
+    <string name="pdf_total_label">总计</string>
+    <string name="pdf_subtotal_label">小计:</string>
+    <string name="pdf_discount_label">折扣:</string>
+    <string name="pdf_tax_label">税收 (%s%%):</string>
+    <string name="pdf_grand_total_label">总计:</string>
+    <string name="pdf_notes_label">备注:</string>
+    <string name="report_daily_detail">交易明细报告</string>
+    <string name="report_monthly_summary">月度摘要报告</string>
+    <string name="total_transactions">总交易数</string>
+
+    <!-- Cloud Backup -->
+    <string name="cloud_backup_title">云端备份</string>
+    <string name="cloud_backup_desc">通过 Firebase 备份和还原数据</string>
+    <string name="secure_cloud_backup">安全云端备份</string>
+    <string name="backup_info_desc">安全地将您的发票和商业资料备份到云端。</string>
+    <string name="backup_now">立即备份</string>
+    <string name="backup_history">备份历史</string>
+    <string name="no_backup_history">未找到备份历史</string>
+    <string name="msg_backup_success">✅ 数据备份成功！</string>
+    <string name="msg_backup_failed">❌ 备份失败: %s</string>
+    <string name="msg_restore_success">✅ 数据还原成功！已加载 %d 份发票。</string>
+    <string name="msg_restore_failed">❌ 还原失败: %s</string>
+    <string name="delete_backup_title">删除备份？</string>
+    <string name="delete_backup_msg">您确定要从云端永久删除此备份吗？</string>
+    <string name="restore_backup_title">还原备份？</string>
+    <string name="restore_backup_msg">这将用此备份中的数据替换您当前的本地数据。此操作无法撤消。</string>
+    <string name="restore_confirm">还原</string>
+    <string name="msg_auth_failed">❌ 身份验证失败: %s</string>
+    <string name="msg_backup_too_large">❌ 备份太大（徽标太大）。请使用较小的徽标。</string>
+    <string name="msg_delete_backup_success">✅ 备份删除成功。</string>
+    <string name="msg_delete_backup_failed">❌ 删除备份失败。</string>
+
+    <!-- WhatsApp Direct -->
+    <string name="whatsapp_direct_title">WhatsApp Direct</string>
+    <string name="whatsapp_direct_menu">WhatsApp 消息</string>
+    <string name="whatsapp_direct_menu_desc">为客户设置自动群发消息</string>
+    <string name="wa_template_paid">已支付消息</string>
+    <string name="wa_template_unpaid">未支付消息</string>
+    <string name="wa_template_overdue">已逾期消息</string>
+    <string name="wa_template_hint">变量: {customer}, {invoice}, {amount}</string>
+    <string name="wa_template_save">保存模板</string>
+    <string name="msg_wa_template_saved">✅ 模板保存成功！</string>
+    <string name="member_discount_msg">会员客户可自动享受 5% 的折扣！</string>
+    <string name="status_active">有效</string>
+    <string name="status_inactive">无效</string>
+    <string name="customer_type">客户类型</string>
+    <string name="type_member">会员</string>
+    <string name="type_non_member">非会员</string>
+    <string name="edit_customer">编辑客户</string>
+    <string name="email_label">电子邮箱</string>
+    <string name="member_number">会员编号</string>
+    <string name="member_number_label">会员编号</string>
+</resources>
