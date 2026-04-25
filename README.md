@@ -29,7 +29,11 @@
 
 | Dashboard | Create Invoice | Analytics |
 | :---: | :---: | :---: |
-| ![Dashboard](https://raw.githubusercontent.com/placeholder/dash.png) | ![Create](https://raw.githubusercontent.com/placeholder/create.png) | ![Analytics](https://raw.githubusercontent.com/placeholder/analytics.png) |
+| ![Dashboard](Screenshot/01_dashboard.jpg) | ![Create](Screenshot/02_create_invoice.jpg) | ![Analytics](Screenshot/03_analytics.jpg) |
+
+| Customers | PDF Result |
+| :---: | :---: |
+| ![Customers](Screenshot/04_customers.jpg) | ![PDF Result](Screenshot/05_pdf_result.jpg) |
 
 ## 🚀 Getting Started
 
