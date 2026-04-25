@@ -2,7 +2,7 @@
 
 **Fakturku.id** is a professional-grade Android invoicing application designed for SMEs and entrepreneurs. It provides a seamless, premium experience for managing invoices, tracking revenue, and maintaining customer relationships with a focus on data security and internationalization.
 
-![Premium UI Dashboard](https://raw.githubusercontent.com/placeholder/fakturku-banner.png)
+![Fakturku.id Banner](./Screenshot/banner.png)
 
 ## ✨ Key Features
 
@@ -27,13 +27,33 @@
 
 ## 📸 Screenshots
 
-| Dashboard | Create Invoice | Analytics |
-| :---: | :---: | :---: |
-| ![Dashboard](Screenshot/01_dashboard.jpeg) | ![Create](Screenshot/02_create_invoice.jpeg) | ![Analytics](Screenshot/03_analytics.jpeg) |
+<div align="center">
 
-| Customers | PDF Result |
+### 📱 Core Dashboard
+| Dashboard | Recent Activity |
 | :---: | :---: |
-| ![Customers](Screenshot/04_customers.jpeg) | ![PDF Result](Screenshot/05_pdf_result.jpeg) |
+| <img src="Screenshot/01_dashboard.jpeg" width="350" /> | <img src="Screenshot/14_recent_activity.jpeg" width="350" /> |
+
+### 📄 Invoicing Flow
+| Create (1) | Create (2) | Create (3) |
+| :---: | :---: | :---: |
+| <img src="Screenshot/04_create_invoice(1).jpeg" width="250" /> | <img src="Screenshot/05_create_invoice(2).jpeg" width="250" /> | <img src="Screenshot/06_create_invoice(3).jpeg" width="250" /> |
+
+| Detail (1) | Detail (2) | PDF Result |
+| :---: | :---: | :---: |
+| <img src="Screenshot/02_invoice_detail(1).jpeg" width="250" /> | <img src="Screenshot/03_invoice_detail(2).jpeg" width="250" /> | <img src="Screenshot/15_pdf_result.jpeg" width="250" /> |
+
+### 📊 Analytics & Customers
+| Analytics (1) | Analytics (2) | Customers |
+| :---: | :---: | :---: |
+| <img src="Screenshot/07_analytics(1).jpeg" width="250" /> | <img src="Screenshot/08_analytics(2).jpeg" width="250" /> | <img src="Screenshot/09_customers.jpeg" width="250" /> |
+
+### ⚙️ Features & Settings
+| Settings (1) | Settings (2) | Backup | WhatsApp |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshot/10_settings(1).jpeg" width="200" /> | <img src="Screenshot/11_settings(2).jpeg" width="200" /> | <img src="Screenshot/12_backup.jpeg" width="200" /> | <img src="Screenshot/13_whatsapp_direct.jpeg" width="200" /> |
+
+</div>
 
 ## 🚀 Getting Started
 
